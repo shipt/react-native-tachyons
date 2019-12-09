@@ -48,7 +48,7 @@
   "dependencies": {
     "fast-equals": "1.6.2",
     "invariant": "2.2.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "micro-memoize": "3.0.1"
   },
   "jest": {
