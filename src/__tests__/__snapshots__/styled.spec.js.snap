@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`styled (primary) 1`] = `
+<button
+  primary={true}
+  style={
+    Array [
+      Object {
+        "flex": 1,
+      },
+      Object {
+        "flexDirection": "row",
+      },
+      Object {
+        "justifyContent": "center",
+      },
+      Object {
+        "color": "#0000ff",
+      },
+      Object {
+        "color": "pink",
+      },
+    ]
+  }
+/>
+`;
+
+exports[`styled multiLine 1`] = `
+<button
+  primary={true}
+  style={
+    Array [
+      Object {
+        "flex": 1,
+      },
+      Object {
+        "flexDirection": "row",
+      },
+      Object {
+        "justifyContent": "center",
+      },
+      Object {
+        "color": "#0000ff",
+      },
+      Object {
+        "color": "pink",
+      },
+    ]
+  }
+/>
+`;
+
+exports[`using withConfig() 1`] = `"doing this for our babel plugin"`;
+
+exports[`with displayName 1`] = `"StyledFunctionWithDisplayNameDisplayName"`;
+
+exports[`with name 1`] = `"StyledFunctionWithName"`;
+
+exports[`without name 1`] = `"StyledComponent"`;
