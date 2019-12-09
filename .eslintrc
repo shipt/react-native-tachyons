@@ -1,0 +1,26 @@
+{
+	"plugins": [
+		"react",
+    "react-native"
+  ],
+	"extends": ["plugin:react/recommended", "plugin:react-native/all"],
+  "parser": "babel-eslint",
+    "rules": {
+      "react-native/sort-styles": 0,
+      "react-native/no-raw-text": 0,
+      "react-native/no-unused-styles": 2,
+      "react-native/split-platform-components": 2,
+      "react-native/no-inline-styles": 2,
+      "react-native/no-color-literals": 2,
+      "react/no-unused-prop-types": "error",
+      "react/prop-types": 0,
+      "no-unused-vars": "error",
+      "no-debugger": "error",
+      "no-console": "error"
+  },
+  "settings": {
+    "react": {
+      "version": "16.4"
+    }
+   }
+}

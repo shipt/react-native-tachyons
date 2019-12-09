@@ -1,0 +1,60 @@
+{
+  "name": "react-native-tachyons",
+  "version": "1.0.0",
+  "description": "Tachyons for RN",
+  "main": "dist/index.js",
+  "repository": "git@github.com:newshipt/react-native-tachyons",
+  "author": "Jeremy Dunn <jeremy@shipt.com> && Alan Kenyon <alan@shipt.com>",
+  "license": "MIT",
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged",
+      "post-commit": "yarn run lint"
+    }
+  },
+  "scripts": {
+    "build": "babel src -d dist",
+    "build:publish": "yarn build; yarn publish",
+    "docs": "node scripts/generateStyleTable.js",
+    "draft-release": "node scripts/release.js",
+    "lint": "eslint src",
+    "test": "jest --watchAll --colors",
+    "benchmark": "yarn build && yarn benchmark-react-native-noop && yarn benchmark-react-native-stylesheet && yarn benchmark-react-native-style-tachyons && yarn benchmark-shipt-react-native-tachyons && yarn benchmark-shipt-react-native-styled-tachyons",
+    "benchmark-react-native-noop": "react-benchmark -u 5 benchmark/react-native-noop.js",
+    "benchmark-react-native-stylesheet": "react-benchmark -u 5 benchmark/react-native-stylesheet.js",
+    "benchmark-react-native-style-tachyons": "react-benchmark -u 5 benchmark/react-native-style-tachyons.js",
+    "benchmark-shipt-react-native-tachyons": "react-benchmark -u 5 benchmark/shipt-react-native-tachyons.js",
+    "benchmark-shipt-react-native-styled-tachyons": "react-benchmark -u 5 benchmark/shipt-react-native-styled-tachyons.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.2.3",
+    "@babel/core": "7.3.4",
+    "@babel/preset-env": "7.3.4",
+    "@babel/preset-react": "7.0.0",
+    "babel-eslint": "10.0.1",
+    "eslint": "5.14.1",
+    "eslint-plugin-react": "7.12.4",
+    "eslint-plugin-react-native": "3.6.0",
+    "husky": "1.3.1",
+    "jest": "^24.1.0",
+    "prettier": "1.16.4",
+    "pretty-quick": "1.10.0",
+    "react": "16.8.3",
+    "react-benchmark": "https://github.com/newshipt/react-benchmark/#master",
+    "react-dom": "16.8.3",
+    "react-native-style-tachyons": "4.0.0",
+    "react-test-renderer": "16.8.3"
+  },
+  "dependencies": {
+    "fast-equals": "1.6.2",
+    "invariant": "2.2.4",
+    "lodash": "^4.17.11",
+    "micro-memoize": "3.0.1"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "./dist",
+      "./node_modules"
+    ]
+  }
+}
