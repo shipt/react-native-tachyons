@@ -195,7 +195,7 @@ If you're not into styled components, you can use the `T` function. It accepts a
 ```jsx
 import React from 'react';
 import { View, Text } from 'react-native';
-import T from '@shipt/react-native-tachyons';
+import { T } from '@shipt/react-native-tachyons';
 
 export function Button(props) {
   return (
@@ -210,7 +210,7 @@ The `T` function will also accept additional style objects. These additional sty
 
 ```jsx
 // ...react imports
-import T from '@shipt/react-native-tachyons';
+import { T } from '@shipt/react-native-tachyons';
 
 function MyComponent() {
   const style = T('flx-i gutter-h bg-white', styles.Box);
