@@ -6,6 +6,7 @@
   "repository": "git@github.com:newshipt/react-native-tachyons",
   "author": "Jeremy Dunn <jeremy@shipt.com> && Alan Kenyon <alan@shipt.com>",
   "license": "MIT",
+  "files": ["dist"],
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged",
