@@ -17,11 +17,11 @@
   },
   "scripts": {
     "build": "babel src -d dist",
-    "build:publish": "yarn build; yarn publish",
     "docs": "node scripts/generateStyleTable.js",
     "draft-release": "node scripts/release.js",
     "lint": "eslint src",
     "test": "jest --watchAll --colors",
+    "prepublish": "yarn build",
     "benchmark": "yarn build && yarn benchmark-react-native-noop && yarn benchmark-react-native-stylesheet && yarn benchmark-react-native-style-tachyons && yarn benchmark-shipt-react-native-tachyons && yarn benchmark-shipt-react-native-styled-tachyons",
     "benchmark-react-native-noop": "react-benchmark -u 5 benchmark/react-native-noop.js",
     "benchmark-react-native-stylesheet": "react-benchmark -u 5 benchmark/react-native-stylesheet.js",
