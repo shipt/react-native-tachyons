@@ -2,14 +2,16 @@ import SizeByStyleMultiplier from './util/sizeByStyleMultiplier';
 
 const flexBasisValues = {
   0: '0rem',
-  1: '0.25rem',
-  2: '0.5rem',
-  3: '1rem',
-  4: '2rem',
-  5: '4rem',
-  6: '8rem',
-  7: '16rem',
-  8: '32rem'
+  1: '0.125rem',
+  2: '0.25rem',
+  3: '0.5rem',
+  4: '0.75rem',
+  5: '1rem',
+  6: '2rem',
+  7: '4rem',
+  8: '8rem',
+  9: '16rem',
+  10: '32rem'
 };
 
 const flexGrowValues = {

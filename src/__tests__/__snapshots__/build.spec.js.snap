@@ -985,28 +985,34 @@ Object {
     "bottom": 0,
   },
   "bottom-1": Object {
-    "bottom": 4,
+    "bottom": 2,
+  },
+  "bottom-10": Object {
+    "bottom": 512,
   },
   "bottom-2": Object {
-    "bottom": 8,
+    "bottom": 4,
   },
   "bottom-3": Object {
-    "bottom": 16,
+    "bottom": 8,
   },
   "bottom-4": Object {
-    "bottom": 32,
+    "bottom": 12,
   },
   "bottom-5": Object {
-    "bottom": 64,
+    "bottom": 16,
   },
   "bottom-6": Object {
-    "bottom": 128,
+    "bottom": 32,
   },
   "bottom-7": Object {
-    "bottom": 256,
+    "bottom": 64,
   },
   "bottom-8": Object {
-    "bottom": 512,
+    "bottom": 128,
+  },
+  "bottom-9": Object {
+    "bottom": 256,
   },
   "br": Object {
     "borderRightWidth": 1,
@@ -1015,28 +1021,34 @@ Object {
     "borderRadius": 0,
   },
   "br1": Object {
-    "borderRadius": 4,
+    "borderRadius": 2,
+  },
+  "br10": Object {
+    "borderRadius": 512,
   },
   "br2": Object {
-    "borderRadius": 8,
+    "borderRadius": 4,
   },
   "br3": Object {
-    "borderRadius": 16,
+    "borderRadius": 8,
   },
   "br4": Object {
-    "borderRadius": 32,
+    "borderRadius": 12,
   },
   "br5": Object {
-    "borderRadius": 64,
+    "borderRadius": 16,
   },
   "br6": Object {
-    "borderRadius": 128,
+    "borderRadius": 32,
   },
   "br7": Object {
-    "borderRadius": 256,
+    "borderRadius": 64,
   },
   "br8": Object {
-    "borderRadius": 512,
+    "borderRadius": 128,
+  },
+  "br9": Object {
+    "borderRadius": 256,
   },
   "brown": Object {
     "color": "#a52a2a",
@@ -1174,28 +1186,34 @@ Object {
     "flexBasis": 0,
   },
   "flx-b-1": Object {
-    "flexBasis": 4,
+    "flexBasis": 2,
+  },
+  "flx-b-10": Object {
+    "flexBasis": 512,
   },
   "flx-b-2": Object {
-    "flexBasis": 8,
+    "flexBasis": 4,
   },
   "flx-b-3": Object {
-    "flexBasis": 16,
+    "flexBasis": 8,
   },
   "flx-b-4": Object {
-    "flexBasis": 32,
+    "flexBasis": 12,
   },
   "flx-b-5": Object {
-    "flexBasis": 64,
+    "flexBasis": 16,
   },
   "flx-b-6": Object {
-    "flexBasis": 128,
+    "flexBasis": 32,
   },
   "flx-b-7": Object {
-    "flexBasis": 256,
+    "flexBasis": 64,
   },
   "flx-b-8": Object {
-    "flexBasis": 512,
+    "flexBasis": 128,
+  },
+  "flx-b-9": Object {
+    "flexBasis": 256,
   },
   "flx-col-reverse": Object {
     "flexDirection": "column-reverse",
@@ -1309,28 +1327,34 @@ Object {
     "height": 0,
   },
   "h1": Object {
-    "height": 4,
+    "height": 2,
+  },
+  "h10": Object {
+    "height": 512,
   },
   "h2": Object {
-    "height": 8,
+    "height": 4,
   },
   "h3": Object {
-    "height": 16,
+    "height": 8,
   },
   "h4": Object {
-    "height": 32,
+    "height": 12,
   },
   "h5": Object {
-    "height": 64,
+    "height": 16,
   },
   "h6": Object {
-    "height": 128,
+    "height": 32,
   },
   "h7": Object {
-    "height": 256,
+    "height": 64,
   },
   "h8": Object {
-    "height": 512,
+    "height": 128,
+  },
+  "h9": Object {
+    "height": 256,
   },
   "honeydew": Object {
     "color": "#f0fff0",
@@ -1438,28 +1462,34 @@ Object {
     "left": 0,
   },
   "left-1": Object {
-    "left": 4,
+    "left": 2,
+  },
+  "left-10": Object {
+    "left": 512,
   },
   "left-2": Object {
-    "left": 8,
+    "left": 4,
   },
   "left-3": Object {
-    "left": 16,
+    "left": 8,
   },
   "left-4": Object {
-    "left": 32,
+    "left": 12,
   },
   "left-5": Object {
-    "left": 64,
+    "left": 16,
   },
   "left-6": Object {
-    "left": 128,
+    "left": 32,
   },
   "left-7": Object {
-    "left": 256,
+    "left": 64,
   },
   "left-8": Object {
-    "left": 512,
+    "left": 128,
+  },
+  "left-9": Object {
+    "left": 256,
   },
   "lemonchiffon": Object {
     "color": "#fffacd",
@@ -1528,28 +1558,34 @@ Object {
     "margin": 0,
   },
   "ma1": Object {
-    "margin": 4,
+    "margin": 2,
+  },
+  "ma10": Object {
+    "margin": 512,
   },
   "ma2": Object {
-    "margin": 8,
+    "margin": 4,
   },
   "ma3": Object {
-    "margin": 16,
+    "margin": 8,
   },
   "ma4": Object {
-    "margin": 32,
+    "margin": 12,
   },
   "ma5": Object {
-    "margin": 64,
+    "margin": 16,
   },
   "ma6": Object {
-    "margin": 128,
+    "margin": 32,
   },
   "ma7": Object {
-    "margin": 256,
+    "margin": 64,
   },
   "ma8": Object {
-    "margin": 512,
+    "margin": 128,
+  },
+  "ma9": Object {
+    "margin": 256,
   },
   "magenta": Object {
     "color": "#ff00ff",
@@ -1561,28 +1597,34 @@ Object {
     "maxHeight": 0,
   },
   "max-h1": Object {
-    "maxHeight": 4,
+    "maxHeight": 2,
+  },
+  "max-h10": Object {
+    "maxHeight": 512,
   },
   "max-h2": Object {
-    "maxHeight": 8,
+    "maxHeight": 4,
   },
   "max-h3": Object {
-    "maxHeight": 16,
+    "maxHeight": 8,
   },
   "max-h4": Object {
-    "maxHeight": 32,
+    "maxHeight": 12,
   },
   "max-h5": Object {
-    "maxHeight": 64,
+    "maxHeight": 16,
   },
   "max-h6": Object {
-    "maxHeight": 128,
+    "maxHeight": 32,
   },
   "max-h7": Object {
-    "maxHeight": 256,
+    "maxHeight": 64,
   },
   "max-h8": Object {
-    "maxHeight": 512,
+    "maxHeight": 128,
+  },
+  "max-h9": Object {
+    "maxHeight": 256,
   },
   "max-hp10": Object {
     "maxHeight": "10%",
@@ -1648,28 +1690,34 @@ Object {
     "maxWidth": 0,
   },
   "max-w1": Object {
-    "maxWidth": 4,
+    "maxWidth": 2,
+  },
+  "max-w10": Object {
+    "maxWidth": 512,
   },
   "max-w2": Object {
-    "maxWidth": 8,
+    "maxWidth": 4,
   },
   "max-w3": Object {
-    "maxWidth": 16,
+    "maxWidth": 8,
   },
   "max-w4": Object {
-    "maxWidth": 32,
+    "maxWidth": 12,
   },
   "max-w5": Object {
-    "maxWidth": 64,
+    "maxWidth": 16,
   },
   "max-w6": Object {
-    "maxWidth": 128,
+    "maxWidth": 32,
   },
   "max-w7": Object {
-    "maxWidth": 256,
+    "maxWidth": 64,
   },
   "max-w8": Object {
-    "maxWidth": 512,
+    "maxWidth": 128,
+  },
+  "max-w9": Object {
+    "maxWidth": 256,
   },
   "max-wp10": Object {
     "maxWidth": "10%",
@@ -1735,28 +1783,34 @@ Object {
     "marginBottom": 0,
   },
   "mb1": Object {
-    "marginBottom": 4,
+    "marginBottom": 2,
+  },
+  "mb10": Object {
+    "marginBottom": 512,
   },
   "mb2": Object {
-    "marginBottom": 8,
+    "marginBottom": 4,
   },
   "mb3": Object {
-    "marginBottom": 16,
+    "marginBottom": 8,
   },
   "mb4": Object {
-    "marginBottom": 32,
+    "marginBottom": 12,
   },
   "mb5": Object {
-    "marginBottom": 64,
+    "marginBottom": 16,
   },
   "mb6": Object {
-    "marginBottom": 128,
+    "marginBottom": 32,
   },
   "mb7": Object {
-    "marginBottom": 256,
+    "marginBottom": 64,
   },
   "mb8": Object {
-    "marginBottom": 512,
+    "marginBottom": 128,
+  },
+  "mb9": Object {
+    "marginBottom": 256,
   },
   "mediumaquamarine": Object {
     "color": "#66cdaa",
@@ -1790,36 +1844,44 @@ Object {
     "marginRight": 0,
   },
   "mh1": Object {
+    "marginLeft": 2,
+    "marginRight": 2,
+  },
+  "mh10": Object {
+    "marginLeft": 512,
+    "marginRight": 512,
+  },
+  "mh2": Object {
     "marginLeft": 4,
     "marginRight": 4,
   },
-  "mh2": Object {
+  "mh3": Object {
     "marginLeft": 8,
     "marginRight": 8,
   },
-  "mh3": Object {
+  "mh4": Object {
+    "marginLeft": 12,
+    "marginRight": 12,
+  },
+  "mh5": Object {
     "marginLeft": 16,
     "marginRight": 16,
   },
-  "mh4": Object {
+  "mh6": Object {
     "marginLeft": 32,
     "marginRight": 32,
   },
-  "mh5": Object {
+  "mh7": Object {
     "marginLeft": 64,
     "marginRight": 64,
   },
-  "mh6": Object {
+  "mh8": Object {
     "marginLeft": 128,
     "marginRight": 128,
   },
-  "mh7": Object {
+  "mh9": Object {
     "marginLeft": 256,
     "marginRight": 256,
-  },
-  "mh8": Object {
-    "marginLeft": 512,
-    "marginRight": 512,
   },
   "midnightblue": Object {
     "color": "#191970",
@@ -1828,28 +1890,34 @@ Object {
     "minHeight": 0,
   },
   "min-h1": Object {
-    "minHeight": 4,
+    "minHeight": 2,
+  },
+  "min-h10": Object {
+    "minHeight": 512,
   },
   "min-h2": Object {
-    "minHeight": 8,
+    "minHeight": 4,
   },
   "min-h3": Object {
-    "minHeight": 16,
+    "minHeight": 8,
   },
   "min-h4": Object {
-    "minHeight": 32,
+    "minHeight": 12,
   },
   "min-h5": Object {
-    "minHeight": 64,
+    "minHeight": 16,
   },
   "min-h6": Object {
-    "minHeight": 128,
+    "minHeight": 32,
   },
   "min-h7": Object {
-    "minHeight": 256,
+    "minHeight": 64,
   },
   "min-h8": Object {
-    "minHeight": 512,
+    "minHeight": 128,
+  },
+  "min-h9": Object {
+    "minHeight": 256,
   },
   "min-hp10": Object {
     "minHeight": "10%",
@@ -1915,28 +1983,34 @@ Object {
     "minWidth": 0,
   },
   "min-w1": Object {
-    "minWidth": 4,
+    "minWidth": 2,
+  },
+  "min-w10": Object {
+    "minWidth": 512,
   },
   "min-w2": Object {
-    "minWidth": 8,
+    "minWidth": 4,
   },
   "min-w3": Object {
-    "minWidth": 16,
+    "minWidth": 8,
   },
   "min-w4": Object {
-    "minWidth": 32,
+    "minWidth": 12,
   },
   "min-w5": Object {
-    "minWidth": 64,
+    "minWidth": 16,
   },
   "min-w6": Object {
-    "minWidth": 128,
+    "minWidth": 32,
   },
   "min-w7": Object {
-    "minWidth": 256,
+    "minWidth": 64,
   },
   "min-w8": Object {
-    "minWidth": 512,
+    "minWidth": 128,
+  },
+  "min-w9": Object {
+    "minWidth": 256,
   },
   "min-wp10": Object {
     "minWidth": "10%",
@@ -2008,28 +2082,34 @@ Object {
     "marginLeft": 0,
   },
   "ml1": Object {
-    "marginLeft": 4,
+    "marginLeft": 2,
+  },
+  "ml10": Object {
+    "marginLeft": 512,
   },
   "ml2": Object {
-    "marginLeft": 8,
+    "marginLeft": 4,
   },
   "ml3": Object {
-    "marginLeft": 16,
+    "marginLeft": 8,
   },
   "ml4": Object {
-    "marginLeft": 32,
+    "marginLeft": 12,
   },
   "ml5": Object {
-    "marginLeft": 64,
+    "marginLeft": 16,
   },
   "ml6": Object {
-    "marginLeft": 128,
+    "marginLeft": 32,
   },
   "ml7": Object {
-    "marginLeft": 256,
+    "marginLeft": 64,
   },
   "ml8": Object {
-    "marginLeft": 512,
+    "marginLeft": 128,
+  },
+  "ml9": Object {
+    "marginLeft": 256,
   },
   "moccasin": Object {
     "color": "#ffe4b5",
@@ -2038,91 +2118,111 @@ Object {
     "marginRight": 0,
   },
   "mr1": Object {
-    "marginRight": 4,
+    "marginRight": 2,
+  },
+  "mr10": Object {
+    "marginRight": 512,
   },
   "mr2": Object {
-    "marginRight": 8,
+    "marginRight": 4,
   },
   "mr3": Object {
-    "marginRight": 16,
+    "marginRight": 8,
   },
   "mr4": Object {
-    "marginRight": 32,
+    "marginRight": 12,
   },
   "mr5": Object {
-    "marginRight": 64,
+    "marginRight": 16,
   },
   "mr6": Object {
-    "marginRight": 128,
+    "marginRight": 32,
   },
   "mr7": Object {
-    "marginRight": 256,
+    "marginRight": 64,
   },
   "mr8": Object {
-    "marginRight": 512,
+    "marginRight": 128,
+  },
+  "mr9": Object {
+    "marginRight": 256,
   },
   "mt0": Object {
     "marginTop": 0,
   },
   "mt1": Object {
-    "marginTop": 4,
+    "marginTop": 2,
+  },
+  "mt10": Object {
+    "marginTop": 512,
   },
   "mt2": Object {
-    "marginTop": 8,
+    "marginTop": 4,
   },
   "mt3": Object {
-    "marginTop": 16,
+    "marginTop": 8,
   },
   "mt4": Object {
-    "marginTop": 32,
+    "marginTop": 12,
   },
   "mt5": Object {
-    "marginTop": 64,
+    "marginTop": 16,
   },
   "mt6": Object {
-    "marginTop": 128,
+    "marginTop": 32,
   },
   "mt7": Object {
-    "marginTop": 256,
+    "marginTop": 64,
   },
   "mt8": Object {
-    "marginTop": 512,
+    "marginTop": 128,
+  },
+  "mt9": Object {
+    "marginTop": 256,
   },
   "mv0": Object {
     "marginBottom": 0,
     "marginTop": 0,
   },
   "mv1": Object {
+    "marginBottom": 2,
+    "marginTop": 2,
+  },
+  "mv10": Object {
+    "marginBottom": 512,
+    "marginTop": 512,
+  },
+  "mv2": Object {
     "marginBottom": 4,
     "marginTop": 4,
   },
-  "mv2": Object {
+  "mv3": Object {
     "marginBottom": 8,
     "marginTop": 8,
   },
-  "mv3": Object {
+  "mv4": Object {
+    "marginBottom": 12,
+    "marginTop": 12,
+  },
+  "mv5": Object {
     "marginBottom": 16,
     "marginTop": 16,
   },
-  "mv4": Object {
+  "mv6": Object {
     "marginBottom": 32,
     "marginTop": 32,
   },
-  "mv5": Object {
+  "mv7": Object {
     "marginBottom": 64,
     "marginTop": 64,
   },
-  "mv6": Object {
+  "mv8": Object {
     "marginBottom": 128,
     "marginTop": 128,
   },
-  "mv7": Object {
+  "mv9": Object {
     "marginBottom": 256,
     "marginTop": 256,
-  },
-  "mv8": Object {
-    "marginBottom": 512,
-    "marginTop": 512,
   },
   "navajowhite": Object {
     "color": "#ffdead",
@@ -2209,28 +2309,34 @@ Object {
     "padding": 0,
   },
   "pa1": Object {
-    "padding": 4,
+    "padding": 2,
+  },
+  "pa10": Object {
+    "padding": 512,
   },
   "pa2": Object {
-    "padding": 8,
+    "padding": 4,
   },
   "pa3": Object {
-    "padding": 16,
+    "padding": 8,
   },
   "pa4": Object {
-    "padding": 32,
+    "padding": 12,
   },
   "pa5": Object {
-    "padding": 64,
+    "padding": 16,
   },
   "pa6": Object {
-    "padding": 128,
+    "padding": 32,
   },
   "pa7": Object {
-    "padding": 256,
+    "padding": 64,
   },
   "pa8": Object {
-    "padding": 512,
+    "padding": 128,
+  },
+  "pa9": Object {
+    "padding": 256,
   },
   "palegoldenrod": Object {
     "color": "#eee8aa",
@@ -2251,28 +2357,34 @@ Object {
     "paddingBottom": 0,
   },
   "pb1": Object {
-    "paddingBottom": 4,
+    "paddingBottom": 2,
+  },
+  "pb10": Object {
+    "paddingBottom": 512,
   },
   "pb2": Object {
-    "paddingBottom": 8,
+    "paddingBottom": 4,
   },
   "pb3": Object {
-    "paddingBottom": 16,
+    "paddingBottom": 8,
   },
   "pb4": Object {
-    "paddingBottom": 32,
+    "paddingBottom": 12,
   },
   "pb5": Object {
-    "paddingBottom": 64,
+    "paddingBottom": 16,
   },
   "pb6": Object {
-    "paddingBottom": 128,
+    "paddingBottom": 32,
   },
   "pb7": Object {
-    "paddingBottom": 256,
+    "paddingBottom": 64,
   },
   "pb8": Object {
-    "paddingBottom": 512,
+    "paddingBottom": 128,
+  },
+  "pb9": Object {
+    "paddingBottom": 256,
   },
   "peachpuff": Object {
     "color": "#ffdab9",
@@ -2285,36 +2397,44 @@ Object {
     "paddingRight": 0,
   },
   "ph1": Object {
+    "paddingLeft": 2,
+    "paddingRight": 2,
+  },
+  "ph10": Object {
+    "paddingLeft": 512,
+    "paddingRight": 512,
+  },
+  "ph2": Object {
     "paddingLeft": 4,
     "paddingRight": 4,
   },
-  "ph2": Object {
+  "ph3": Object {
     "paddingLeft": 8,
     "paddingRight": 8,
   },
-  "ph3": Object {
+  "ph4": Object {
+    "paddingLeft": 12,
+    "paddingRight": 12,
+  },
+  "ph5": Object {
     "paddingLeft": 16,
     "paddingRight": 16,
   },
-  "ph4": Object {
+  "ph6": Object {
     "paddingLeft": 32,
     "paddingRight": 32,
   },
-  "ph5": Object {
+  "ph7": Object {
     "paddingLeft": 64,
     "paddingRight": 64,
   },
-  "ph6": Object {
+  "ph8": Object {
     "paddingLeft": 128,
     "paddingRight": 128,
   },
-  "ph7": Object {
+  "ph9": Object {
     "paddingLeft": 256,
     "paddingRight": 256,
-  },
-  "ph8": Object {
-    "paddingLeft": 512,
-    "paddingRight": 512,
   },
   "pink": Object {
     "color": "#ffc0cb",
@@ -2323,28 +2443,34 @@ Object {
     "paddingLeft": 0,
   },
   "pl1": Object {
-    "paddingLeft": 4,
+    "paddingLeft": 2,
+  },
+  "pl10": Object {
+    "paddingLeft": 512,
   },
   "pl2": Object {
-    "paddingLeft": 8,
+    "paddingLeft": 4,
   },
   "pl3": Object {
-    "paddingLeft": 16,
+    "paddingLeft": 8,
   },
   "pl4": Object {
-    "paddingLeft": 32,
+    "paddingLeft": 12,
   },
   "pl5": Object {
-    "paddingLeft": 64,
+    "paddingLeft": 16,
   },
   "pl6": Object {
-    "paddingLeft": 128,
+    "paddingLeft": 32,
   },
   "pl7": Object {
-    "paddingLeft": 256,
+    "paddingLeft": 64,
   },
   "pl8": Object {
-    "paddingLeft": 512,
+    "paddingLeft": 128,
+  },
+  "pl9": Object {
+    "paddingLeft": 256,
   },
   "plum": Object {
     "color": "#dda0dd",
@@ -2356,55 +2482,67 @@ Object {
     "paddingRight": 0,
   },
   "pr1": Object {
-    "paddingRight": 4,
+    "paddingRight": 2,
+  },
+  "pr10": Object {
+    "paddingRight": 512,
   },
   "pr2": Object {
-    "paddingRight": 8,
+    "paddingRight": 4,
   },
   "pr3": Object {
-    "paddingRight": 16,
+    "paddingRight": 8,
   },
   "pr4": Object {
-    "paddingRight": 32,
+    "paddingRight": 12,
   },
   "pr5": Object {
-    "paddingRight": 64,
+    "paddingRight": 16,
   },
   "pr6": Object {
-    "paddingRight": 128,
+    "paddingRight": 32,
   },
   "pr7": Object {
-    "paddingRight": 256,
+    "paddingRight": 64,
   },
   "pr8": Object {
-    "paddingRight": 512,
+    "paddingRight": 128,
+  },
+  "pr9": Object {
+    "paddingRight": 256,
   },
   "pt0": Object {
     "paddingTop": 0,
   },
   "pt1": Object {
-    "paddingTop": 4,
+    "paddingTop": 2,
+  },
+  "pt10": Object {
+    "paddingTop": 512,
   },
   "pt2": Object {
-    "paddingTop": 8,
+    "paddingTop": 4,
   },
   "pt3": Object {
-    "paddingTop": 16,
+    "paddingTop": 8,
   },
   "pt4": Object {
-    "paddingTop": 32,
+    "paddingTop": 12,
   },
   "pt5": Object {
-    "paddingTop": 64,
+    "paddingTop": 16,
   },
   "pt6": Object {
-    "paddingTop": 128,
+    "paddingTop": 32,
   },
   "pt7": Object {
-    "paddingTop": 256,
+    "paddingTop": 64,
   },
   "pt8": Object {
-    "paddingTop": 512,
+    "paddingTop": 128,
+  },
+  "pt9": Object {
+    "paddingTop": 256,
   },
   "purple": Object {
     "color": "#800080",
@@ -2414,36 +2552,44 @@ Object {
     "paddingTop": 0,
   },
   "pv1": Object {
+    "paddingBottom": 2,
+    "paddingTop": 2,
+  },
+  "pv10": Object {
+    "paddingBottom": 512,
+    "paddingTop": 512,
+  },
+  "pv2": Object {
     "paddingBottom": 4,
     "paddingTop": 4,
   },
-  "pv2": Object {
+  "pv3": Object {
     "paddingBottom": 8,
     "paddingTop": 8,
   },
-  "pv3": Object {
+  "pv4": Object {
+    "paddingBottom": 12,
+    "paddingTop": 12,
+  },
+  "pv5": Object {
     "paddingBottom": 16,
     "paddingTop": 16,
   },
-  "pv4": Object {
+  "pv6": Object {
     "paddingBottom": 32,
     "paddingTop": 32,
   },
-  "pv5": Object {
+  "pv7": Object {
     "paddingBottom": 64,
     "paddingTop": 64,
   },
-  "pv6": Object {
+  "pv8": Object {
     "paddingBottom": 128,
     "paddingTop": 128,
   },
-  "pv7": Object {
+  "pv9": Object {
     "paddingBottom": 256,
     "paddingTop": 256,
-  },
-  "pv8": Object {
-    "paddingBottom": 512,
-    "paddingTop": 512,
   },
   "rebeccapurple": Object {
     "color": "#663399",
@@ -2455,28 +2601,34 @@ Object {
     "right": 0,
   },
   "right-1": Object {
-    "right": 4,
+    "right": 2,
+  },
+  "right-10": Object {
+    "right": 512,
   },
   "right-2": Object {
-    "right": 8,
+    "right": 4,
   },
   "right-3": Object {
-    "right": 16,
+    "right": 8,
   },
   "right-4": Object {
-    "right": 32,
+    "right": 12,
   },
   "right-5": Object {
-    "right": 64,
+    "right": 16,
   },
   "right-6": Object {
-    "right": 128,
+    "right": 32,
   },
   "right-7": Object {
-    "right": 256,
+    "right": 64,
   },
   "right-8": Object {
-    "right": 512,
+    "right": 128,
+  },
+  "right-9": Object {
+    "right": 256,
   },
   "rm-contain": Object {
     "resizeMode": "contain",
@@ -2563,28 +2715,34 @@ Object {
     "top": 0,
   },
   "top-1": Object {
-    "top": 4,
+    "top": 2,
+  },
+  "top-10": Object {
+    "top": 512,
   },
   "top-2": Object {
-    "top": 8,
+    "top": 4,
   },
   "top-3": Object {
-    "top": 16,
+    "top": 8,
   },
   "top-4": Object {
-    "top": 32,
+    "top": 12,
   },
   "top-5": Object {
-    "top": 64,
+    "top": 16,
   },
   "top-6": Object {
-    "top": 128,
+    "top": 32,
   },
   "top-7": Object {
-    "top": 256,
+    "top": 64,
   },
   "top-8": Object {
-    "top": 512,
+    "top": 128,
+  },
+  "top-9": Object {
+    "top": 256,
   },
   "tr": Object {
     "textAlign": "right",
@@ -2620,28 +2778,34 @@ Object {
     "width": 0,
   },
   "w1": Object {
-    "width": 4,
+    "width": 2,
+  },
+  "w10": Object {
+    "width": 512,
   },
   "w2": Object {
-    "width": 8,
+    "width": 4,
   },
   "w3": Object {
-    "width": 16,
+    "width": 8,
   },
   "w4": Object {
-    "width": 32,
+    "width": 12,
   },
   "w5": Object {
-    "width": 64,
+    "width": 16,
   },
   "w6": Object {
-    "width": 128,
+    "width": 32,
   },
   "w7": Object {
-    "width": 256,
+    "width": 64,
   },
   "w8": Object {
-    "width": 512,
+    "width": 128,
+  },
+  "w9": Object {
+    "width": 256,
   },
   "wheat": Object {
     "color": "#f5deb3",

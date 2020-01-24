@@ -13,7 +13,7 @@ const getStyler = (config = defaultConfig) => {
 test('style getter', () => {
   const styler = getStyler();
 
-  expect(styler('blue jcc flx-i ma5')).toEqual([
+  expect(styler('blue jcc flx-i ma7')).toEqual([
     { color: '#0000ff' },
     { justifyContent: 'center' },
     { flex: 1 },
@@ -36,7 +36,7 @@ test('default styles', () => {
 test('parses hex colors', () => {
   const styler = getStyler();
 
-  expect(styler('#123456 bg-#123456 b--#123456 jcc flx-i ma5')).toEqual([
+  expect(styler('#123456 bg-#123456 b--#123456 jcc flx-i ma7')).toEqual([
     { color: '#123456' },
     { backgroundColor: '#123456' },
     { borderColor: '#123456' },
