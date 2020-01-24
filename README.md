@@ -27,6 +27,15 @@ Welcome to Shipt's React Native Tachyons library! Checkout our documentation bel
 
 These instructions will help you get set up with **react-native-tachyons**.
 
+## v1 to v2 Migration
+
+v2 was solely an update to the build in style sizing.
+
+|     | 0   | 1     | 2    | 3   | 4    | 5   | 6   | 7   | 8   | 9   | 10  |
+| --- | --- | ----- | ---- | --- | ---- | --- | --- | --- | --- | --- | --- |
+| v1  | 0   | 0.25  | 0.5  | 1   | 2    | 4   | 8   | 16  | 32  | n/a | n/a |
+| v2  | 0   | 0.125 | 0.25 | 0.5 | 0.75 | 1   | 2   | 4   | 8   | 16  | 32  |
+
 ### Installation
 
 ```sh
