@@ -25,7 +25,7 @@ export default {
   br: { borderRightWidth: 1 },
   bt: { borderTopWidth: 1 },
   bb: { borderBottomWidth: 1 },
-  bs_dashed: { borderStyle: 'dashed' },
-  bs_dotted: { borderStyle: 'dotted' },
-  bs_solid: { borderStyle: 'solid' }
+  'bs-dashed': { borderStyle: 'dashed' },
+  'bs-dotted': { borderStyle: 'dotted' },
+  'bs-solid': { borderStyle: 'solid' }
 };
