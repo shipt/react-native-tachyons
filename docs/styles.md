@@ -461,8 +461,8 @@
 | bt                      | `{"borderTopWidth":1}`                                          |
 | bb                      | `{"borderBottomWidth":1}`                                       |
 | bs_dashed               | `{"borderStyled":"dashed"}`                                     |
-| bsd_dotted              | `{"borderStyled":"dotted"}`                                     |
-| bsd_solid               | `{"borderStyled":"solid"}`                                      |
+| bs_dotted               | `{"borderStyled":"dotted"}`                                     |
+| bs_solid                | `{"borderStyled":"solid"}`                                      |
 | ovv                     | `{"overflow":"visible"}`                                        |
 | ovh                     | `{"overflow":"hidden"}`                                         |
 | ovs                     | `{"overflow":"scroll"}`                                         |
