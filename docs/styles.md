@@ -460,6 +460,9 @@
 | br                      | `{"borderRightWidth":1}`                                        |
 | bt                      | `{"borderTopWidth":1}`                                          |
 | bb                      | `{"borderBottomWidth":1}`                                       |
+| bs-dashed               | `{"borderStyled":"dashed"}`                                     |
+| bs-dotted               | `{"borderStyled":"dotted"}`                                     |
+| bs-solid                | `{"borderStyled":"solid"}`                                      |
 | ovv                     | `{"overflow":"visible"}`                                        |
 | ovh                     | `{"overflow":"hidden"}`                                         |
 | ovs                     | `{"overflow":"scroll"}`                                         |
