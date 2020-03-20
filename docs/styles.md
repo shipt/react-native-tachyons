@@ -460,6 +460,7 @@
 | br                      | `{"borderRightWidth":1}`                                        |
 | bt                      | `{"borderTopWidth":1}`                                          |
 | bb                      | `{"borderBottomWidth":1}`                                       |
+| bsd                     | `{"borderStyled":"dashed"}`                                     |
 | ovv                     | `{"overflow":"visible"}`                                        |
 | ovh                     | `{"overflow":"hidden"}`                                         |
 | ovs                     | `{"overflow":"scroll"}`                                         |
