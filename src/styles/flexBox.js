@@ -48,6 +48,7 @@ export default {
   aib: { alignItems: 'baseline' },
   aife: { alignItems: 'flex-end' },
   jcc: { justifyContent: 'center' },
+  jcfs: { justifyContent: 'flex-start' },
   jcfe: { justifyContent: 'flex-end' },
   jcsb: { justifyContent: 'space-between' },
   jcsa: { justifyContent: 'space-around' },
