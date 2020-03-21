@@ -1053,6 +1053,15 @@ Object {
   "brown": Object {
     "color": "#a52a2a",
   },
+  "bs-dashed": Object {
+    "borderStyle": "dashed",
+  },
+  "bs-dotted": Object {
+    "borderStyle": "dotted",
+  },
+  "bs-solid": Object {
+    "borderStyle": "solid",
+  },
   "bt": Object {
     "borderTopWidth": 1,
   },
@@ -1439,6 +1448,9 @@ Object {
   },
   "jcfe": Object {
     "justifyContent": "flex-end",
+  },
+  "jcfs": Object {
+    "justifyContent": "flex-start",
   },
   "jcsa": Object {
     "justifyContent": "space-around",
