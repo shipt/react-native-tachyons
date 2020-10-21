@@ -181,6 +181,7 @@
 | aib                     | `{"alignItems":"baseline"}`                                     |
 | aife                    | `{"alignItems":"flex-end"}`                                     |
 | jcc                     | `{"justifyContent":"center"}`                                   |
+| jcfs                    | `{"justifyContent":"flex-start"}`                               |
 | jcfe                    | `{"justifyContent":"flex-end"}`                                 |
 | jcsb                    | `{"justifyContent":"space-between"}`                            |
 | jcsa                    | `{"justifyContent":"space-around"}`                             |
@@ -460,9 +461,9 @@
 | br                      | `{"borderRightWidth":1}`                                        |
 | bt                      | `{"borderTopWidth":1}`                                          |
 | bb                      | `{"borderBottomWidth":1}`                                       |
-| bs-dashed               | `{"borderStyled":"dashed"}`                                     |
-| bs-dotted               | `{"borderStyled":"dotted"}`                                     |
-| bs-solid                | `{"borderStyled":"solid"}`                                      |
+| bs-dashed               | `{"borderStyle":"dashed"}`                                      |
+| bs-dotted               | `{"borderStyle":"dotted"}`                                      |
+| bs-solid                | `{"borderStyle":"solid"}`                                       |
 | ovv                     | `{"overflow":"visible"}`                                        |
 | ovh                     | `{"overflow":"hidden"}`                                         |
 | ovs                     | `{"overflow":"scroll"}`                                         |
