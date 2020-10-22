@@ -1,6 +1,6 @@
 {
   "name": "@shipt/react-native-tachyons",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Tachyons for RN",
   "main": "dist/index.js",
   "repository": "git@github.com:newshipt/react-native-tachyons",
