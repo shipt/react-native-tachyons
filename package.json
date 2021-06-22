@@ -1,6 +1,6 @@
 {
   "name": "@shipt/react-native-tachyons",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Tachyons for RN",
   "main": "dist/index.js",
   "repository": "git@github.com:newshipt/react-native-tachyons",
@@ -22,13 +22,13 @@
     "draft-release": "node scripts/release.js",
     "lint": "eslint src",
     "test": "jest --watchAll --colors",
+    "prepare": "husky install",
     "benchmark": "yarn build && yarn benchmark-react-native-noop && yarn benchmark-react-native-stylesheet && yarn benchmark-react-native-style-tachyons && yarn benchmark-shipt-react-native-tachyons && yarn benchmark-shipt-react-native-styled-tachyons",
     "benchmark-react-native-noop": "react-benchmark -u 5 benchmark/react-native-noop.js",
     "benchmark-react-native-stylesheet": "react-benchmark -u 5 benchmark/react-native-stylesheet.js",
     "benchmark-react-native-style-tachyons": "react-benchmark -u 5 benchmark/react-native-style-tachyons.js",
     "benchmark-shipt-react-native-tachyons": "react-benchmark -u 5 benchmark/shipt-react-native-tachyons.js",
-    "benchmark-shipt-react-native-styled-tachyons": "react-benchmark -u 5 benchmark/shipt-react-native-styled-tachyons.js",
-    "postinstall": "husky install"
+    "benchmark-shipt-react-native-styled-tachyons": "react-benchmark -u 5 benchmark/shipt-react-native-styled-tachyons.js"
   },
   "devDependencies": {
     "@babel/cli": "7.14.5",
