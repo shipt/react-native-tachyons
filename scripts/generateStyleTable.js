@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 const fs = require('fs');
 const path = require('path');
-const build = require('../dist/build').default;
+const { build } = require('../dist/build');
 const { execSync } = require('child_process');
 
 const styles = build();

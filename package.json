@@ -1,6 +1,6 @@
 {
   "name": "@shipt/react-native-tachyons",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tachyons for RN",
   "main": "dist/index.js",
   "repository": "git@github.com:newshipt/react-native-tachyons",
@@ -27,7 +27,8 @@
     "benchmark-react-native-stylesheet": "react-benchmark -u 5 benchmark/react-native-stylesheet.js",
     "benchmark-react-native-style-tachyons": "react-benchmark -u 5 benchmark/react-native-style-tachyons.js",
     "benchmark-shipt-react-native-tachyons": "react-benchmark -u 5 benchmark/shipt-react-native-tachyons.js",
-    "benchmark-shipt-react-native-styled-tachyons": "react-benchmark -u 5 benchmark/shipt-react-native-styled-tachyons.js"
+    "benchmark-shipt-react-native-styled-tachyons": "react-benchmark -u 5 benchmark/shipt-react-native-styled-tachyons.js",
+    "postinstall": "husky install"
   },
   "devDependencies": {
     "@babel/cli": "7.14.5",
